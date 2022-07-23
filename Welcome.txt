@@ -18,5 +18,5 @@ Press Q on the menu to open the image editor
 
 
 Image editor:
-Choose the photo to edit and right click it.
-Watch the tutorial here to see the controls: [NOLINK]
+
+Image editor is a work in progress. So there is no controls for it right now.
